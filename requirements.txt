@@ -1,0 +1,19 @@
+tensorflow==2.12.0
+pandas 
+gdown #used to download files from gdrive
+dvc
+mlflow==2.2.2
+notebook
+numpy
+matplotlib
+seaborn
+python-box==6.0.2 #Using this library we can use logging and exception without writing it seperately
+pyYAML
+tqdm   #Fast, Extensible Progress Meter
+ensure==1.0.2
+joblib
+types-PyYAML
+scipy
+Flask
+Flask-Cors
+-e .
