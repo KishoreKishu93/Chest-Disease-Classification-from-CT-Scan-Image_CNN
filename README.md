@@ -34,6 +34,7 @@ git push origin main
 
 ```bash
 conda create -n chest python=3.8 -y
+conda create -n ctt python=3.8 -y
 ```
 
 ```bash
