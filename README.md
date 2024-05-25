@@ -73,6 +73,6 @@ export MLFLOW_TRACKING_PASSWORD=95624994c266b7385e87630d32367e94b7ec9282
 
 ### DVC cmd
 
-1. dvc init
-2. dvc repro
+1. dvc init #Will create a .dvc folder, with the help of this folder, it will track teh pipeline
+2. dvc repro #
 3. dvc dag
