@@ -63,6 +63,7 @@ python script.py
 ```bash
 
 export MLFLOW_TRACKING_URI=https://dagshub.com/kishore.kumarkv93/mlflow_exp_repo.mlflow
+export MLFLOW_TRACKING_URI=https://dagshub.com/kishore.kumarkv93/Chest-Disease-Classification-from-CT-Scan-Image_CNN.mlflow
 
 export MLFLOW_TRACKING_USERNAME=kishore.kumarkv93
 
